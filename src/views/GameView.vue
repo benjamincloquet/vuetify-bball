@@ -1,6 +1,6 @@
 <template>
     <div>
-        Hi
+        Play!
     </div>
 </template>
 
